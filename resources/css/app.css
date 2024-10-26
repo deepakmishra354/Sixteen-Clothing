@@ -1,0 +1,23 @@
+/* Button Styling */
+.btn-buy-now {
+   background-color: #28a745; /* Green color */
+   color: white; /* White text */
+   border: none; /* No border */
+   padding: 10px 20px; /* Padding for size */
+   font-size: 16px; /* Font size */
+   border-radius: 5px; /* Rounded corners */
+   cursor: pointer; /* Pointer cursor on hover */
+   display: inline-block; /* Inline display */
+   margin-top: 10px; /* Margin for spacing */
+   transition: background-color 0.3s ease; /* Smooth hover transition */
+}
+
+/* Hover Effect */
+.btn-buy-now:hover {
+   background-color: #218838; /* Darker green on hover */
+}
+
+/* Optional: Adding space between stars and button */
+.product-item .down-content {
+   margin-bottom: 10px; /* Adds space below content */
+}
