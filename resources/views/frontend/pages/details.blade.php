@@ -171,7 +171,6 @@
                           <img src="{{asset('Books/' . $record->image)}}" alt="" class="img">
                           <img src="{{asset('Clothes/' . $record->image)}}" alt="" class="img">
 
-
                         </div>
                         @endforeach
                 </div>
